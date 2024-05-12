@@ -1,0 +1,1 @@
+g++ -std=c++11 geesespotter.cpp geesespotter_lib.cpp -o main
